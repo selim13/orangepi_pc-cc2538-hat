@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CC2538-CC2592-ALI1
+D CC2538-CC2592 zigbee module
+$ENDCMP
+#
+$CMP SY8008A
+D 0.6A, 5.5V Step-Down Voltage Regulator, 1.5MHz Frequency, SOT-23-5
+K Miniature Step-Down Buck Voltage Regulator
+F http://www.sunnyqi.com/upLoad/product/month_1306/SY8008.pdf
+$ENDCMP
+#
+$CMP SY8008B
+D 1A, 5.5V Step-Down Voltage Regulator, 1.5MHz Frequency, SOT-23-5
+K Miniature Step-Down Buck Voltage Regulator
+F http://www.sunnyqi.com/upLoad/product/month_1306/SY8008.pdf
+$ENDCMP
+#
+$CMP SY8008C
+D 1.2A, 5.5V Step-Down Voltage Regulator, 1.5MHz Frequency, SOT-23-5
+K Miniature Step-Down Buck Voltage Regulator
+F http://www.sunnyqi.com/upLoad/product/month_1306/SY8008.pdf
+$ENDCMP
+#
+$CMP USB_C_Receptacle_Power
+D Power-only Type-C Receptacle connector
+K usb universal serial bus type-C power
+F https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+$ENDCMP
+#
+#End Doc Library
