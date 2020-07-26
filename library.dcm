@@ -4,6 +4,12 @@ $CMP CC2538-CC2592-ALI1
 D CC2538-CC2592 zigbee module
 $ENDCMP
 #
+$CMP DS1338Z-33
+D 64 x 8, Serial, I2C Real-time clock, 3.0V to 5.5V VCC, 0°C to +70°C, SOIC-8
+K RTC, I2C Timekeeping Chip
+F https://datasheets.maximintegrated.com/en/ds/DS1307.pdf
+$ENDCMP
+#
 $CMP SY8008A
 D 0.6A, 5.5V Step-Down Voltage Regulator, 1.5MHz Frequency, SOT-23-5
 K Miniature Step-Down Buck Voltage Regulator
