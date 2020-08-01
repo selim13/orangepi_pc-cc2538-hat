@@ -959,4 +959,26 @@ Wire Wire Line
 	1450 1300 1350 1300
 Wire Wire Line
 	1350 1300 1350 1250
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5F1DE0A8
+P 1400 6100
+F 0 "H1" H 1500 6146 50  0000 L CNN
+F 1 "M3" H 1500 6055 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 1400 6100 50  0001 C CNN
+F 3 "~" H 1400 6100 50  0001 C CNN
+	1    1400 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5F1DEC50
+P 1400 6300
+F 0 "H2" H 1500 6346 50  0000 L CNN
+F 1 "M3" H 1500 6255 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 1400 6300 50  0001 C CNN
+F 3 "~" H 1400 6300 50  0001 C CNN
+	1    1400 6300
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
